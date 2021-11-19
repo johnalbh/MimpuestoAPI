@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BackEnd.iml" filepath="$PROJECT_DIR$/.idea/BackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-impuesto-bien/common-impuesto-bien.iml" filepath="$PROJECT_DIR$/common-impuesto-bien/common-impuesto-bien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-usuarios/common-usuarios.iml" filepath="$PROJECT_DIR$/common-usuarios/common-usuarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-service/commons-service.iml" filepath="$PROJECT_DIR$/commons-service/commons-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-bienes/servicio-bienes.iml" filepath="$PROJECT_DIR$/servicio-bienes/servicio-bienes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-contribuyente/servicio-contribuyente.iml" filepath="$PROJECT_DIR$/servicio-contribuyente/servicio-contribuyente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-eureka/servicio-eureka.iml" filepath="$PROJECT_DIR$/servicio-eureka/servicio-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-impuestos/servicio-impuestos.iml" filepath="$PROJECT_DIR$/servicio-impuestos/servicio-impuestos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-security/servicio-security.iml" filepath="$PROJECT_DIR$/servicio-security/servicio-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-usuarios/servicio-usuarios.iml" filepath="$PROJECT_DIR$/servicio-usuarios/servicio-usuarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-zuul/servicio-zuul.iml" filepath="$PROJECT_DIR$/servicio-zuul/servicio-zuul.iml" />
+    </modules>
+  </component>
+</project>

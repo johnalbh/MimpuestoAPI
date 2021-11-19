@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common-impuesto-bien/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-usuarios/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-bienes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-contribuyente/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-impuestos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-usuarios/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicio-zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>
