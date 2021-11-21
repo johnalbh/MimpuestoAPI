@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
-@EntityScan({"edu.ucentral.commonusuarios.model"})
+@EntityScan({"edu.ucentral.serviciousuarios.model"})
 @EnableEurekaClient
 @SpringBootApplication
 public class ServicioUsuariosApplication {

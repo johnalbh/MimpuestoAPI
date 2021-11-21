@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 
-import edu.ucentral.commonusuarios.model.Usuario;
+import edu.ucentral.serviciousuarios.model.Usuario;
 import edu.ucentral.serviciousuarios.repository.UsuarioRepository;
 
 @Service
