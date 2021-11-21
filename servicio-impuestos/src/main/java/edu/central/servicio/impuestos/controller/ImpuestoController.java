@@ -5,7 +5,6 @@ import edu.central.servicio.impuestos.DTO.ImpuestoBienDTO;
 import edu.central.servicio.impuestos.service.BienService;
 import edu.central.servicio.impuestos.service.ImpuestoBienService;
 import edu.central.servicio.impuestos.service.ImpuestoService;
-import edu.ucentral.commonsservice.controller.CommonController;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.TypeMap;
 import org.springframework.beans.factory.annotation.Autowired;

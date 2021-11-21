@@ -9,7 +9,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
-import edu.ucentral.commonsservice.controller.CommonController;
 import edu.ucentral.serviciousuarios.model.Usuario;
 import edu.ucentral.serviciousuarios.service.UsuarioService;
 

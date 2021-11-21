@@ -4,7 +4,6 @@ import edu.central.servicio.impuestos.model.Bien;
 import edu.central.servicio.impuestos.model.Impuesto;
 import edu.central.servicio.impuestos.model.ImpuestoBien;
 import edu.central.servicio.impuestos.repository.ImpuestoBienRepository;
-import edu.ucentral.commonsservice.service.CommonServiceImpl;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
