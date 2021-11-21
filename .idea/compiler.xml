@@ -7,12 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="commons-service" />
-        <module name="servicio-impuestos" />
         <module name="servicio-contribuyente" />
+        <module name="servicio-impuestos" />
         <module name="servicio-bienes" />
-        <module name="servicio-zuul" />
-        <module name="servicio-eureka" />
         <module name="servicio-security" />
+        <module name="servicio-eureka" />
+        <module name="servicio-zuul" />
         <module name="common-usuarios" />
         <module name="servicio-usuarios" />
         <module name="common-impuesto-bien" />
