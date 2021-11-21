@@ -1,7 +1,7 @@
 package edu.ucentral.servicio.contribuyente.service;
 
-import edu.central.common_impuesto_bien.model.Contribuyente;
-import edu.central.common_impuesto_bien.model.ResponseMessage;
+import edu.ucentral.servicio.contribuyente.model.Contribuyente;
+import edu.ucentral.servicio.contribuyente.model.ResponseMessage;
 import edu.ucentral.servicio.contribuyente.exception.NotFoundException;
 import edu.ucentral.servicio.contribuyente.repository.ContribuyenteRepository;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @EnableEurekaClient
 @SpringBootApplication
-@EntityScan({"edu.central.common_impuesto_bien.model"})
+@EntityScan({"edu.ucentral.servicio.contribuyente.model"})
 public class ServicioContribuyenteApplication {
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package edu.ucentral.servicio.contribuyente.controller;
 
-import edu.central.common_impuesto_bien.model.Contribuyente;
+import edu.ucentral.servicio.contribuyente.model.Contribuyente;
 import edu.ucentral.servicio.contribuyente.service.ContribuyenteService;
 import javassist.NotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;

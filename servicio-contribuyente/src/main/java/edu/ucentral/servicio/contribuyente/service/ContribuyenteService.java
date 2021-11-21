@@ -1,6 +1,6 @@
 package edu.ucentral.servicio.contribuyente.service;
 
-import edu.central.common_impuesto_bien.model.Contribuyente;
+import edu.ucentral.servicio.contribuyente.model.Contribuyente;
 
 import java.util.List;
 
