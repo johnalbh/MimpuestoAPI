@@ -1,6 +1,6 @@
 package edu.central.servicio.impuestos.controller;
 
-import edu.central.common_impuesto_bien.model.*;
+import edu.central.servicio.impuestos.model.*;
 import edu.central.servicio.impuestos.DTO.ImpuestoBienDTO;
 import edu.central.servicio.impuestos.service.BienService;
 import edu.central.servicio.impuestos.service.ImpuestoBienService;

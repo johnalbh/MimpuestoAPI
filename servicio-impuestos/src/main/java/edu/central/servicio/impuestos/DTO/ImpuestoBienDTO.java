@@ -1,7 +1,7 @@
 package edu.central.servicio.impuestos.DTO;
 
-import edu.central.common_impuesto_bien.model.Bien;
-import edu.central.common_impuesto_bien.model.Impuesto;
+import edu.central.servicio.impuestos.model.Bien;
+import edu.central.servicio.impuestos.model.Impuesto;
 
 import java.util.Objects;
 
@@ -22,7 +22,7 @@ public class ImpuestoBienDTO {
     public ImpuestoBienDTO() {
     }
 
-    public ImpuestoBienDTO(Long id, edu.central.common_impuesto_bien.model.Impuesto impuesto, boolean pagado, double valorTotalOrdinario, double valorTotalConPagoVoluntario, double valorTotalExtraOrdinario, double valorTotalExtraOrdinarioConPagoVoluntario, String nombreTipoBien, String iconoTipoBien, Boolean estadoTipoBien, edu.central.common_impuesto_bien.model.Bien bien) {
+    public ImpuestoBienDTO(Long id, Impuesto impuesto, boolean pagado, double valorTotalOrdinario, double valorTotalConPagoVoluntario, double valorTotalExtraOrdinario, double valorTotalExtraOrdinarioConPagoVoluntario, String nombreTipoBien, String iconoTipoBien, Boolean estadoTipoBien, Bien bien) {
         Id = id;
         Impuesto = impuesto;
         Pagado = pagado;
@@ -44,11 +44,11 @@ public class ImpuestoBienDTO {
         Id = id;
     }
 
-    public edu.central.common_impuesto_bien.model.Impuesto getImpuesto() {
+    public Impuesto getImpuesto() {
         return Impuesto;
     }
 
-    public void setImpuesto(edu.central.common_impuesto_bien.model.Impuesto impuesto) {
+    public void setImpuesto(Impuesto impuesto) {
         Impuesto = impuesto;
     }
 
@@ -116,11 +116,11 @@ public class ImpuestoBienDTO {
         this.estadoTipoBien = estadoTipoBien;
     }
 
-    public edu.central.common_impuesto_bien.model.Bien getBien() {
+    public Bien getBien() {
         return Bien;
     }
 
-    public void setBien(edu.central.common_impuesto_bien.model.Bien bien) {
+    public void setBien(Bien bien) {
         Bien = bien;
     }
 

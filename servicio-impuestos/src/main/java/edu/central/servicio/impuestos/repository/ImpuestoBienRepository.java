@@ -1,8 +1,8 @@
 package edu.central.servicio.impuestos.repository;
 
-import edu.central.common_impuesto_bien.model.Bien;
-import edu.central.common_impuesto_bien.model.Impuesto;
-import edu.central.common_impuesto_bien.model.ImpuestoBien;
+import edu.central.servicio.impuestos.model.Bien;
+import edu.central.servicio.impuestos.model.Impuesto;
+import edu.central.servicio.impuestos.model.ImpuestoBien;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
