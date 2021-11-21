@@ -1,6 +1,6 @@
 package edu.central.servicio.bienes.repository;
 
-import edu.central.common_impuesto_bien.model.Comercio;
+import edu.central.servicio.bienes.model.Comercio;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

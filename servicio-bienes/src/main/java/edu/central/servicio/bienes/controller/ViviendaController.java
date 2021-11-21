@@ -1,7 +1,7 @@
 package edu.central.servicio.bienes.controller;
 
-import edu.central.common_impuesto_bien.model.ResponseMessage;
-import edu.central.common_impuesto_bien.model.Vivienda;
+import edu.central.servicio.bienes.model.ResponseMessage;
+import edu.central.servicio.bienes.model.Vivienda;
 import edu.central.servicio.bienes.DTO.ViviendaContribuyenteDTO;
 import edu.central.servicio.bienes.DTO.ViviendaDTO;
 import edu.central.servicio.bienes.service.ViviendaService;

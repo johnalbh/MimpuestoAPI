@@ -1,6 +1,6 @@
 package edu.central.servicio.bienes.service;
 
-import edu.central.common_impuesto_bien.model.Comercio;
+import edu.central.servicio.bienes.model.Comercio;
 import edu.central.servicio.bienes.exception.NotFoundException;
 import edu.central.servicio.bienes.repository.ComercioRepository;
 import org.springframework.beans.factory.annotation.Autowired;

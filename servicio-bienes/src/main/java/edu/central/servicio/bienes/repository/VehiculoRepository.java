@@ -1,6 +1,6 @@
 package edu.central.servicio.bienes.repository;
 
-import edu.central.common_impuesto_bien.model.Vehiculo;
+import edu.central.servicio.bienes.model.Vehiculo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

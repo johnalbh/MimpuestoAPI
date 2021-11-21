@@ -1,6 +1,6 @@
 package edu.central.servicio.bienes.service;
 
-import edu.central.common_impuesto_bien.model.Vehiculo;
+import edu.central.servicio.bienes.model.Vehiculo;
 
 import java.util.List;
 

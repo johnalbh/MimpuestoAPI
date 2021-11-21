@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 
 // @EnableEurekaClient
 @SpringBootApplication
-@EntityScan({"edu.central.common_impuesto_bien.model"})
+@EntityScan({"edu.central.servicio.bienes.model"})
 public class ServicioBienesApplication {
 
     @Bean

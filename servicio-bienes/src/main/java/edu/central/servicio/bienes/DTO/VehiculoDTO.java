@@ -1,6 +1,6 @@
 package edu.central.servicio.bienes.DTO;
 
-import edu.central.common_impuesto_bien.model.Contribuyente;
+import edu.central.servicio.bienes.model.Contribuyente;
 
 public class VehiculoDTO {
 

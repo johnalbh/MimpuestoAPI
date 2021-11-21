@@ -1,7 +1,7 @@
 package edu.central.servicio.bienes.controller;
 
-import edu.central.common_impuesto_bien.model.ResponseMessage;
-import edu.central.common_impuesto_bien.model.Vehiculo;
+import edu.central.servicio.bienes.model.ResponseMessage;
+import edu.central.servicio.bienes.model.Vehiculo;
 import edu.central.servicio.bienes.DTO.VehiculoContribuyenteDTO;
 import edu.central.servicio.bienes.DTO.VehiculoDTO;
 import edu.central.servicio.bienes.service.VehiculoService;

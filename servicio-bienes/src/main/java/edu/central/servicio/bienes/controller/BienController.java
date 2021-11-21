@@ -1,6 +1,6 @@
 package edu.central.servicio.bienes.controller;
 
-import edu.central.common_impuesto_bien.model.TipoBien;
+import edu.central.servicio.bienes.model.TipoBien;
 import edu.central.servicio.bienes.service.TipoBienService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
